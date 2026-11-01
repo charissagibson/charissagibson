@@ -20,7 +20,7 @@ Industries: SaaS, FMCG, agriculture, manufacturing, aerospace and logistics.
 
 ## What's here
 
-- [claude-skills](https://github.com/charissagibson/claude-skills) - the working methods I've written for Claude.  The main one is `handover`: how to close an AI working session so the documents, decisions and next steps actually land, written from the finance side.
+- [claude-skills](https://github.com/charissagibson/claude-skills) - the working methods I've written for Claude.  The main one is `session-close`: how to close an AI working session so the documents, decisions and next steps actually land, written from the finance side.
 
 ## Find me
 
